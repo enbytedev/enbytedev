@@ -7,4 +7,4 @@
 ----
 **Socials**
 - 🐦 [Twitter](https://twitter.com/enbytedev/)
-- 🌐 [Website](enbyte.dev)
+- 🌐 [Website](https://enbyte.dev)
