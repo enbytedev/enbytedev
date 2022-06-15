@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/Aerial-Laptop/Anti-Airborne/main/icon.png" height="150px" />  
   <img src="https://raw.githubusercontent.com/Aerial-Laptop/YourBot/master/icon.png" height="150px" />  
 </div>
+<div align="center"><b>Install Script</b> -- <code>bash <(curl -s https://al.enbyte.dev/dist/install.sh)</code></div>
 <hr>
 <h3 align="center"><b>🤔 Familiarities 🤔</b>
   <div align="center">    
