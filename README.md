@@ -4,7 +4,7 @@
 
 <p align="center"><b>⭐️ Top Projects ⭐️</b></p>
 <div align="center">  
-  <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/Filing-Saucer/main/static/icon.png" height="150px" /></a>
+  <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/Filing-Saucer/main/LOGO.png" height="150px" /></a>
   <a href="https://github.com/enbytedev/Anti-Airborne"><img src="https://raw.githubusercontent.com/enbytedev/Anti-Airborne/main/icon.png" height="150px" /></a>
    <a href="https://github.com/enbytedev/YourBot"><img src="https://raw.githubusercontent.com/enbytedev/YourBot/master/icon.png" height="150px" /></a>
 </div>
