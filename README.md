@@ -1,14 +1,19 @@
-<img src="https://enbyte.dev/banner">
+<img src="https://cdn.enbyte.dev/banner">
 
 <hr>
 
-<h3 align="center">⭐️ Top Projects ⭐️</h3>
+<h3 align="center">🔨 Tools 🔨</h3>
+<div align="center">  
+  <a href="https://www.npmjs.com/package/sugarcube"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/sugarcube.png" height="150px" /></a>
+</div>
+<hr>
+<h3 align="center">⭐️ Applications ⭐️</h3>
 <div align="center">  
   <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/Filing-Saucer/main/PROJECT.png" height="150px" /></a>
   <a href="https://github.com/enbytedev/Anti-Airborne"><img src="https://raw.githubusercontent.com/enbytedev/Anti-Airborne/main/PROJECT.png" height="150px" /></a>
    <a href="https://github.com/enbytedev/YourBot"><img src="https://raw.githubusercontent.com/enbytedev/YourBot/master/PROJECT.png" height="150px" /></a>
 </div>
-<div align="center"><b>Install Script</b> -- <code>bash <(curl -s https://al.enbyte.dev/dist/install.sh)</code></div>
+<div align="center"><b>Install Script</b> -- <code>bash <(curl -s https://install.enbyte.dev/)</code></div>
 <hr>
 <h3 align="center"><b>🤔 Familiarities 🤔</b>
   <div align="center">    
@@ -23,7 +28,8 @@
 <hr>
 <p align="center"><b>🎉 Accomplishments 🎉</b></p>
 <a href="https://github.com/c-apex/Mindless-Meditation-2"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" height="100px"></a>
-<br><i>Click for details!</i>
+<a href="https://www.freecodecamp.org/certification/enbytedev/javascript-algorithms-and-data-structures"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" height="100px"></a>
+<br><div align="center"><b>Click for details!</b></div>
 <hr>
 <h3 align="center"><b>🏳️‍🌈🏳️‍⚧️🇺🇦</b></h3>
 <h3>Contact</h3>
