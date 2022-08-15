@@ -1,4 +1,4 @@
-<img src="https://cdn.enbyte.dev/banner">
+<img src="./assets/banner.gif">
 
 <hr>
 
