@@ -10,11 +10,13 @@
 <hr>
 <h3 align="center">⭐️ Applications ⭐️</h3>
 <div align="center">  
-  <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/Filing-Saucer/main/ICON.png" height="150px" /></a>
-  <a href="https://github.com/enbytedev/Anti-Airborne"><img src="https://raw.githubusercontent.com/enbytedev/Anti-Airborne/main/PROJECT.png" height="150px" /></a>
-   <a href="https://github.com/enbytedev/YourBot"><img src="https://raw.githubusercontent.com/enbytedev/YourBot/master/PROJECT.png" height="150px" /></a>
+  <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/filingsaucer.png" height="150px" /></a>
 </div>
-<div align="center"><b>Install Script</b> -- <code>bash <(curl -s https://install.enbyte.dev/)</code></div>
+<h3 align="center">🕰 Legacy Projects 🕰</h3>
+<div align="center">  
+  <a href="https://github.com/enbytedev/Anti-Airborne"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/antiairborne-legacy.png" height="150px" /></a>
+  <a href="https://github.com/enbytedev/YourBot"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/yourbot.png" height="150px" /></a>
+</div>
 <hr>
 <h3 align="center"><b>🤔 Familiarities 🤔</b>
   <div align="center">    
