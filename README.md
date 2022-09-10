@@ -12,6 +12,7 @@
 <div align="center">  
   <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/filingsaucer.png" height="150px" /></a>
 </div>
+<hr>
 <h3 align="center">🕰 Legacy Projects 🕰</h3>
 <div align="center">  
   <a href="https://github.com/enbytedev/Anti-Airborne"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/antiairborne-legacy.png" height="150px" /></a>
