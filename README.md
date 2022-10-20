@@ -4,8 +4,10 @@
 
 <h3 align="center">🔨 Tools 🔨</h3>
 <div align="center">  
-  <a href="https://www.npmjs.com/package/sugarcube"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/sugarcube.png" height="150px" /></a>
   <a href="https://www.npmjs.com/package/confectionery"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/confectionery.png" height="150px" /></a>
+  <a href="https://www.npmjs.com/package/kitchenlight"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/kitchenlight.png" height="150px" /></a>
+  <a href="https://www.npmjs.com/package/sugarcube"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/sugarcube.png" height="150px" /></a>
+  </div>
 </div>
 <hr>
 <h3 align="center">⭐️ Applications ⭐️</h3>
