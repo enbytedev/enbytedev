@@ -6,6 +6,7 @@
 <div align="center">  
   <a href="https://www.npmjs.com/package/confectionery"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/confectionery.png" height="150px" /></a>
   <a href="https://www.npmjs.com/package/kitchenlight"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/kitchenlight.png" height="150px" /></a>
+  <a href="https://www.npmjs.com/package/queenbee"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/queenbee.png" height="150px" /></a>
   <a href="https://www.npmjs.com/package/sugarcube"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/sugarcube.png" height="150px" /></a>
   </div>
 </div>
@@ -13,6 +14,7 @@
 <h3 align="center">⭐️ Applications ⭐️</h3>
 <div align="center">  
   <a href="https://github.com/enbytedev/Filing-Saucer"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/filingsaucer.png" height="150px" /></a>
+  <a href="https://github.com/enbytedev/enbytedev-website"><img src="https://raw.githubusercontent.com/enbytedev/enbytedev/main/assets/projects/website.png" height="150px" /></a>
 </div>
 <hr>
 <h3 align="center">🕰 Legacy Projects 🕰</h3>
