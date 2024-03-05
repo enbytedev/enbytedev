@@ -36,7 +36,5 @@
 <hr>
 <h3 align="center"><b>🏳️‍🌈🏳️‍⚧️🇺🇦</b></h3>
 <h3>Contact</h3>
-<a href="https://www.linkedin.com/in/thomas-juhl/">🖇 LinkedIn</a><br>
-<a href="https://twitter.com/enbytedev/">🐦 Twitter</a><br>
 <a href="https://enbyte.dev/">🌎 Website</a><br>
 <a href="mailto:me@enbyte.dev">📫 me(at)enbyte.dev</a>
